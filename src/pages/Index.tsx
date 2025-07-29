@@ -80,9 +80,9 @@ export default function Index() {
                 <CardTitle className="text-xl">Дата и время</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-lg font-semibold text-primary mb-2">15 августа 2025</p>
-                <p className="text-muted-foreground">Начало в 19:00</p>
-                <p className="text-sm text-muted-foreground mt-2">Окончание около 02:00</p>
+                <p className="text-lg font-semibold text-primary mb-2">20 сентября 2025</p>
+                <p className="text-muted-foreground">Начало в 17:00</p>
+                <p className="text-sm text-muted-foreground mt-2">Окончание около 00:00</p>
               </CardContent>
             </Card>
 
@@ -128,7 +128,7 @@ export default function Index() {
                 <Icon name="Clock" size={20} className="text-primary" />
               </div>
               <div>
-                <h3 className="text-xl font-semibold mb-2">19:00 - 20:00</h3>
+                <h3 className="text-xl font-semibold mb-2">17:00 - 18:00</h3>
                 <p className="text-muted-foreground">Приветственный коктейль и регистрация гостей</p>
               </div>
             </div>
@@ -138,7 +138,7 @@ export default function Index() {
                 <Icon name="Utensils" size={20} className="text-primary" />
               </div>
               <div>
-                <h3 className="text-xl font-semibold mb-2">20:00 - 21:30</h3>
+                <h3 className="text-xl font-semibold mb-2">18:00 - 19:30</h3>
                 <p className="text-muted-foreground">Праздничный ужин и тосты</p>
               </div>
             </div>
@@ -148,7 +148,7 @@ export default function Index() {
                 <Icon name="Music" size={20} className="text-primary" />
               </div>
               <div>
-                <h3 className="text-xl font-semibold mb-2">21:30 - 00:00</h3>
+                <h3 className="text-xl font-semibold mb-2">19:30 - 22:00</h3>
                 <p className="text-muted-foreground">Танцы под живую музыку и DJ-сет</p>
               </div>
             </div>
@@ -158,7 +158,7 @@ export default function Index() {
                 <Icon name="Cake" size={20} className="text-primary" />
               </div>
               <div>
-                <h3 className="text-xl font-semibold mb-2">00:00 - 02:00</h3>
+                <h3 className="text-xl font-semibold mb-2">22:00 - 00:00</h3>
                 <p className="text-muted-foreground">Торт, фотосессия и afterparty</p>
               </div>
             </div>
