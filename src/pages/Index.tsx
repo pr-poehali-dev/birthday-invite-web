@@ -94,9 +94,9 @@ export default function Index() {
                 <CardTitle className="text-xl">Место проведения</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-lg font-semibold text-primary mb-2">Event Hall "Celebration"</p>
-                <p className="text-muted-foreground">ул. Праздничная, 25</p>
-                <p className="text-sm text-muted-foreground mt-2">Москва, метро Сокольники</p>
+                <p className="text-lg font-semibold text-primary mb-2">Ресторан "У Шефа"</p>
+                <p className="text-muted-foreground">посёлок Горшково, 57</p>
+                <p className="text-sm text-muted-foreground mt-2">Дмитровский городской округ, МО</p>
               </CardContent>
             </Card>
 
@@ -286,17 +286,18 @@ export default function Index() {
               </CardHeader>
               <CardContent className="space-y-4">
                 <div>
-                  <h4 className="font-semibold mb-2">Event Hall "Celebration"</h4>
-                  <p className="text-muted-foreground">ул. Праздничная, 25</p>
-                  <p className="text-muted-foreground">Москва, 105066</p>
+                  <h4 className="font-semibold mb-2">Ресторан "У Шефа"</h4>
+                  <p className="text-muted-foreground">посёлок Горшково, 57</p>
+                  <p className="text-muted-foreground">Дмитровский городской округ, МО</p>
                 </div>
                 
                 <Separator />
                 
                 <div>
                   <h4 className="font-semibold mb-2">Транспорт</h4>
-                  <p className="text-muted-foreground">🚇 Метро Сокольники (5 мин пешком)</p>
-                  <p className="text-muted-foreground">🚗 Парковка доступна</p>
+                  <p className="text-muted-foreground">🚗 На автомобиле по Дмитровскому шоссе</p>
+                  <p className="text-muted-foreground">🚌 Автобус до п. Горшково</p>
+                  <p className="text-muted-foreground">🅿️ Бесплатная парковка</p>
                 </div>
                 
                 <Separator />
